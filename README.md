@@ -452,5 +452,4 @@ EMAIL_PASS=your_production_email_password
 1. Build the backend: `cd backend && npm run build`
 2. Deploy with proper environment variables
 3. Ensure MongoDB Atlas allows connections from your hosting provider
-#   S m a r t - g y m  
- 
+#
